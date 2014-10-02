@@ -1,5 +1,4 @@
-require "shoryuken/version"
-
-module Shoryuken
-  # Your code goes here...
-end
+require 'shoryuken/version'
+require 'shoryuken/core'
+require 'shoryuken/rails'
+require 'shoryuken/pivotal'
